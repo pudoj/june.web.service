@@ -29,8 +29,10 @@
 
 一开始就提到了，参考[axis2搭建参考]，对要发布成WebService的类在eclipse中右击选择Web Services》Create Web Service，然后根据向导进行配置发布即可！
 
-[调用webService的几种方式](http://blog.csdn.net/u011165335/article/details/51345224)
-[浅淡Webservice、WSDL三种服务访问的方式](http://www.tuicool.com/articles/YbMfie)
+下面这几篇文章作为参考：
+
+- [调用webService的几种方式](http://blog.csdn.net/u011165335/article/details/51345224)
+- [浅淡Webservice、WSDL三种服务访问的方式](http://www.tuicool.com/articles/YbMfie)
 
 ----
 发布服务注意：
@@ -106,5 +108,7 @@ public class Axis2Test {
 }
 
 ```
+
+
 ----
 [axis2搭建参考]:http://note.youdao.com/share/?id=816314845b424e33a8ed6576011c85dc&type=note#/ '参考这里搭建axis2的开发环境'
